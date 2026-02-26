@@ -1,0 +1,40 @@
+# Core LLM + LangChain
+langchain
+langchain-community
+langchain-core
+langgraph
+
+# Local LLM (Ollama integration)
+ollama
+
+# Embeddings
+sentence-transformers
+transformers
+torch
+
+# Vector Store
+faiss-cpu
+
+# Backend API
+fastapi
+uvicorn
+
+# Optional (Agar Flask use karna ho)
+# flask
+
+# Data handling
+pydantic
+python-dotenv
+
+# Utilities
+tqdm
+numpy
+pandas
+
+# Logging / Dev
+loguru
+
+# Jupyter (optional for experiments)
+notebook
+ipykernel
+-e .
